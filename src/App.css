@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+hr{
+  margin: 20%;
+}
+.card {
+  background-color: gray;
+  align-items: center;
+  border: 0px solid rgba(0,0,0,.125);
+}
+
+#titulo{
+  font-size: large;
+  font-weight: bold;
+}
+
+.pie{
+  font-size: large;
+  font-weight: bold;
+}
+
+
+
+
